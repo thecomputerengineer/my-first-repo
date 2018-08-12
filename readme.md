@@ -1,30 +1,39 @@
-# This is a large heading
+# Christian San Jose
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Metro Manila, Philippines.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My field of interests are in:
 
-Here is `some code` in the middle of a sentence.
+- *Computer Science and Engineering*
+- *Distributed Systems and Cloud Computing*
+- *Solutions Architecture*
+- *Cybersecurity*
+- *Management*
 
-```
-This is
-a block
-of code
-```
+### Sports
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Want to be fit and have discipline in:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Martial Arts.
+2. Wall Climbing.
+3. Parkour.
+4. Swimming.
+5. Sky Diving.
 
-nano README.md
+### Hobbies
+
+Favorite past times are:
+
+- **Reading books.**
+- **Programming.**
+- **MOOCs**
+- **Playing computer games**
+- **Movie marathon**
+
+### Contact
+
+The best way to get in touch with me is [on Linkedin](https://www.linkedin.com).
